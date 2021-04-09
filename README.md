@@ -1,0 +1,1 @@
+# Script-de-gerenciamento-de-processos-e-nmon
